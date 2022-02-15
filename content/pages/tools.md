@@ -1,11 +1,14 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 39d2b780-72f9-56a2-2e71-8dda03e843e7
 ---
 
-MATLAB® Information
--------------------
+MATLAB{{< sup "®" >}} Information
+---------------------------------
 
 Information as to how to access the on-line MATLAB help shows up on the command window as soon as you start MATLAB.
 

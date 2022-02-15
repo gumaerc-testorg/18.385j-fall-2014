@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding bead moving along a thin,
   rigid wire.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-385j-nonlinear-dynamics-and-chaos-fall-2014/f583bdda09b4571a846beac29edf8297_MIT18_385JF14_Bead_on_Wire.pdf
+file: /media/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/f583bdda09b4571a846beac29edf8297_MIT18_385JF14_Bead_on_Wire.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Nonlinear Dynamics and Chaos, Bead moving along a thin, rigid wire
 uid: f583bdda-09b4-571a-846b-eac29edf8297

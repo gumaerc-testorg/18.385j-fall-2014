@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1a60cc5d-e672-10bf-7972-a546b6c5b40f
 ---
@@ -24,7 +27,7 @@ As for the level of rigor: "math proof level" is not expected. The same level as
 *   Note that only the "quiz-problems" will be graded in each problem set. Since these will not be announced, you should do all the problems—if you happen to miss them in your answer, you will get zero credit, even if you did the others. Answers will be provided for all the problems.
 *   Any "suggested reading", "suggested problems" and any other "suggested" are for you alone to do or not do. Thus: Do not hand in these problems!
 *   **About** **Computer Assignments** (if any):
-    *   Use any language or computer you like. Athena accounts are available to all students. I recommend MATLAB®, which is available in Athena. Better yet: Get the Student Edition of MATLAB®, and port the Course Software there. In Athena you can find "dstool", but it's harder to use. MATLAB® or Mathematika are easier to use and more flexible. You can also use C, Fortran or whatever works for you.
+    *   Use any language or computer you like. Athena accounts are available to all students. I recommend MATLAB{{< sup "®" >}}, which is available in Athena. Better yet: Get the Student Edition of MATLAB{{< sup "®" >}}, and port the Course Software there. In Athena you can find "dstool", but it's harder to use. MATLAB{{< sup "®" >}} or Mathematika are easier to use and more flexible. You can also use C, Fortran or whatever works for you.
     *   Include brief explanations of how the problem was solved (a printout of a program is not enough!). I want to know what is the idea!
     *   Results must be condensed to some comprehensible and concise form:
         *   Use plots, tables or graphs. Do not show "raw" numerical output.
