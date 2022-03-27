@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 879c013e-e6bc-f496-f511-1b4c7b7395e6
 resourcetype: Document
 title: 'Nonlinear Dynamics and Chaos, Weakly nonlinear things: Oscilators'
 uid: ac55ab24-1cc3-3326-09e5-11edb1d7b848

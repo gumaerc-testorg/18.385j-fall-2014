@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 879c013e-e6bc-f496-f511-1b4c7b7395e6
 resourcetype: Document
 title: Nonlinear Dynamics and Chaos, Selected lecture notes from fall 2012
 uid: 67b0710b-3bc4-73a7-5d8f-91b29954b0e9

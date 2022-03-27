@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 879c013e-e6bc-f496-f511-1b4c7b7395e6
 resourcetype: Document
 title: Nonlinear Dynamics and Chaos, Hopf Bifurcations
 uid: c6f658c9-6c4a-b007-838a-3dba51899a73
