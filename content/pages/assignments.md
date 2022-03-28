@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 1a60cc5d-e672-10bf-7972-a546b6c5b40f
 ---
@@ -38,22 +39,22 @@ As for the level of rigor: "math proof level" is not expected. The same level as
 Problem Sets
 ------------
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset1)
+{{< resource_link 0a6d3f5c-ff8c-7534-6173-2f268029f63e "Problem Set 1 (PDF)" >}}
 
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset2)
+{{< resource_link 7280d5b3-1bb0-a603-8e2c-450fc653bcfe "Problem Set 2 (PDF)" >}}
 
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset3)
+{{< resource_link b5d2d6f5-8052-a68a-9e7a-f67adee5cea2 "Problem Set 3 (PDF)" >}}
 
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset4)
+{{< resource_link 2abec9e7-fb60-21a8-5d53-2d736f16b531 "Problem Set 4 (PDF)" >}}
 
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset5)
+{{< resource_link 34e4aa8a-e3e8-303a-9de9-bc1c2b82e665 "Problem Set 5 (PDF)" >}}
 
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset6)
+{{< resource_link 1aee61f1-20b5-520b-af4f-a17fc9ca9ed7 "Problem Set 6 (PDF)" >}}
 
-[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset7)
+{{< resource_link d88cc0af-6cd5-0c94-e597-c31cb014c7c5 "Problem Set 7 (PDF)" >}}
 
-[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset8)
+{{< resource_link 70acbf41-6799-ae7d-8bd2-1f6fa6aacdc8 "Problem Set 8 (PDF)" >}}
 
-[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset9)
+{{< resource_link 8e6df6a9-1f82-3c49-ca5a-b2e18bf912bb "Problem Set 9 (PDF)" >}}
 
-[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit18_385jf14_pset10)
+{{< resource_link ceeca336-a787-1c1a-95cc-435301497b8a "Problem Set 10 (PDF)" >}}
