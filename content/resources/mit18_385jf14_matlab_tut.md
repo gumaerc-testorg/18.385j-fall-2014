@@ -5,6 +5,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/4dc24517af1177b3f8
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Matlab tutorials
 uid: 4dc24517-af11-77b3-f8eb-a76f5e6ddb52
 ---
 This resource contains information regarding matlab tutorials.
-

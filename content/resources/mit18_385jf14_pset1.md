@@ -6,6 +6,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/0a6d3f5cff8c753461
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Nonlinear Dynamics and Chaos, Assignment 1
 uid: 0a6d3f5c-ff8c-7534-6173-2f268029f63e
 ---
 This is a file that contains information regarding nonlinear dynamics and chaos problem set 1.
-

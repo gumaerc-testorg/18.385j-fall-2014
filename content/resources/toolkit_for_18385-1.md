@@ -5,6 +5,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/d925346a3421849eac
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Toolkit_for_18385.zip
 uid: d925346a-3421-849e-ac27-3bb940fad042
 ---
 This zip file contains 41 .m files and 2 .txt files.
-

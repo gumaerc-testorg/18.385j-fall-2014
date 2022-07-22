@@ -6,6 +6,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/252b9c04191407857f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Nonlinear Dynamics and Chaos, Tricky asymptotics fixed point notes
 uid: 252b9c04-1914-0785-7f47-1f018a6487f8
 ---
 This resource contains information regarding tricky asymptotics fixed point notes.
-

@@ -5,6 +5,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/1a1e6458f8ebe306b8
 file_type: application/x-tar
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Toolkit_for_18385.tar
 uid: 1a1e6458-f8eb-e306-b8be-392b5bca879b
 ---
 This resource is a supporting  tar file.
-

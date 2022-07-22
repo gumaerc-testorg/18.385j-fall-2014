@@ -5,6 +5,7 @@ file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/c6f658c96c4ab00783
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Nonlinear Dynamics and Chaos, Hopf Bifurcations
 uid: c6f658c9-6c4a-b007-838a-3dba51899a73
 ---
 This resource contains information regarding hopf bifurcations.
-
