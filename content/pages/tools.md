@@ -1,11 +1,16 @@
 ---
 content_type: page
+description: This section provides information on using MATLAB for the course and
+  a downloadable MATLAB toolkit.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 39d2b780-72f9-56a2-2e71-8dda03e843e7
 ---
 
-MATLAB® Information
--------------------
+MATLAB{{< sup "®" >}} Information
+---------------------------------
 
 Information as to how to access the on-line MATLAB help shows up on the command window as soon as you start MATLAB.
 
@@ -21,7 +26,7 @@ Below you can find a list of some of the places where help on how to use MATLAB 
 
 *   [Tutorial by Dr. Kermit Sigmon at the University of Florida](http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html)
 *   [A Practical Introduction to MATLAB by Mark S. Gockenbach](http://www.math.mtu.edu/~msgocken/intro/intro.html)
-*   [Short MATLAB Tutorial (PDF)]({{< baseurl >}}/resources/mit18_385jf14_matlab_tut) (Courtesy of Prof. Gil Strang. Used with permission.)
+*   {{% resource_link 4dc24517-af11-77b3-f8eb-a76f5e6ddb52 "Short MATLAB Tutorial (PDF)" %}} (Courtesy of Prof. Gil Strang. Used with permission.)
 *   [MATLAB Demos by The MathWorks](http://www.mathworks.com/products/matlab/examples.html)
 
 MATLAB Scripts
@@ -36,7 +41,7 @@ The scripts are an integral part of the course. Students are expected to use the
 Download MATLAB Toolkit
 -----------------------
 
-Download [Toolkit\_for\_18385.zip (ZIP)]({{< baseurl >}}/resources/toolkit_for_18385-1) (This zip file contains: 5 folders, 41 .m files and 2 .txt files.) or [Toolkit\_for\_18385.tar (TAR)]({{< baseurl >}}/resources/toolkit_for_18385). After you expand the download, you will get a folder with:
+Download {{% resource_link d925346a-3421-849e-ac27-3bb940fad042 "Toolkit\_for\_18385.zip (ZIP)" %}} (This zip file contains: 5 folders, 41 .m files and 2 .txt files.) or {{% resource_link 1a1e6458-f8eb-e306-b8be-392b5bca879b "Toolkit\_for\_18385.tar (TAR)" %}}. After you expand the download, you will get a folder with:
 
 1.  A text file with installation instructions.
 2.  A special MATLAB script needed for the installation.
