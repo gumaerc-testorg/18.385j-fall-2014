@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding hopf bifurcations.
-file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/c6f658c96c4ab007838a3dba51899a73_MIT18_385JF14_Hopf-Bif.pdf
+file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/c6f658c96c4ab007838a3dba51899a73_MIT18_385JF14_Hopf-Bif.pdf
 file_size: 258098
 file_type: application/pdf
 learning_resource_types:

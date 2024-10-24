@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This zip file contains 41 .m files and 2 .txt files.
-file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/d925346a3421849eac273bb940fad042_Toolkit_for_18385.zip
+file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/d925346a3421849eac273bb940fad042_Toolkit_for_18385.zip
 file_size: 106714
 file_type: application/zip
 learning_resource_types:
