@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding nonlinear dynamics
   and chaos problem set 1.
-file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/0a6d3f5cff8c753461732f268029f63e_MIT18_385JF14_Pset1.pdf
+file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/0a6d3f5cff8c753461732f268029f63e_MIT18_385JF14_Pset1.pdf
 file_size: 205995
 file_type: application/pdf
 learning_resource_types:
