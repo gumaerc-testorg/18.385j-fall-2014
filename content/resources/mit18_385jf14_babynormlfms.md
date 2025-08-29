@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding bifurcations: baby normal
   forms.'
-file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/068224e607b5dcde1629732a987ec9f2_MIT18_385JF14_BabyNormlFms.pdf
+file: /ol-ocw-studio-app/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/068224e607b5dcde1629732a987ec9f2_MIT18_385JF14_BabyNormlFms.pdf
 file_size: 168450
 file_type: application/pdf
 learning_resource_types:
