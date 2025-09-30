@@ -8,7 +8,7 @@ title: Lecture Notes
 uid: 879c013e-e6bc-f496-f511-1b4c7b7395e6
 ---
 
-The lecture notes below supplement the textbook: Strogatz, Steven H. _Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering_. Westview Press, 2014. ISBN: 9780813349107. \[Preview with [Google Books](http://books.google.com/books?id=jeFVDgAAQBAJ&pg=PAfrontcover)\]
+The lecture notes below supplement the textbook: Strogatz, Steven H. _Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering_. Westview Press, 2014. ISBN: 9780813349107. \[Preview with {{% resource_link "139186fd-ff0e-41a3-b9e1-49603a5cb1e2" "Google Books" %}}\]
 
 {{% resource_link 67b0710b-3bc4-73a7-5d8f-91b29954b0e9 "Selected Lecture Notes from Fall 2012 (PDF)" %}}
 

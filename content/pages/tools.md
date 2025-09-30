@@ -24,10 +24,10 @@ The three basic commands in MATLAB that you should always remember are:
 
 Below you can find a list of some of the places where help on how to use MATLAB can be found.
 
-*   [Tutorial by Dr. Kermit Sigmon at the University of Florida](http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html)
-*   [A Practical Introduction to MATLAB by Mark S. Gockenbach](http://www.math.mtu.edu/~msgocken/intro/intro.html)
+*   {{% resource_link "927d11dd-2a76-42cf-86a4-8866a24d1fd7" "Tutorial by Dr. Kermit Sigmon at the University of Florida" %}}
+*   {{% resource_link "ceb585b7-0f44-4fc4-aacb-ebebe50e62e1" "A Practical Introduction to MATLAB by Mark S. Gockenbach" %}}
 *   {{% resource_link 4dc24517-af11-77b3-f8eb-a76f5e6ddb52 "Short MATLAB Tutorial (PDF)" %}} (Courtesy of Prof. Gil Strang. Used with permission.)
-*   [MATLAB Demos by The MathWorks](http://www.mathworks.com/products/matlab/examples.html)
+*   {{% resource_link "e8c24684-e92c-4c3d-a206-fdc3443788ca" "MATLAB Demos by The MathWorks" %}}
 
 MATLAB Scripts
 --------------
